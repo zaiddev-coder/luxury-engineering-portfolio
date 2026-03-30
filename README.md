@@ -8,9 +8,6 @@
 
 > A **Luxury Neo-Brutalist** portfolio built from scratch — no templates, no UI libraries. Every component hand-crafted to showcase modern frontend engineering at its most expressive.
 
-<p align="center">
-  <a href="https://hatimelhassak.is-a.dev"><strong>🔗 Live Site →</strong></a>
-</p>
 
 ---
 
@@ -139,5 +136,5 @@ npm start
 
 - 
 <p align="center">
-  <sub>Designed & engineered by <strong>Hatim El Hassak</strong> — no templates, no shortcuts.</sub>
+  <sub>Designed & engineered by <strong>Siddiqui Sahab</strong> — no templates, no shortcuts.</sub>
 </p>
