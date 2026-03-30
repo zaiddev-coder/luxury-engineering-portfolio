@@ -1,4 +1,4 @@
-# Hatim El Hassak — Luxury Engineering Portfolio
+# SHAHZAIN ASHRAF — Luxury Engineering Portfolio
 
 ![Next.js](https://img.shields.io/badge/next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -137,16 +137,7 @@ npm start
 - **Motion as a first-class citizen** — staggered reveals, spring physics, 3D tilt, parallax, and page transitions via Framer Motion
 - **Performance-first** — React Server Components where possible, `next/font` for zero layout shift, optimized SVG patterns
 
----
-
-## 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-elhassak/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimelhassak.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hatimelhassak.is-a.dev)
-
----
-
+- 
 <p align="center">
   <sub>Designed & engineered by <strong>Hatim El Hassak</strong> — no templates, no shortcuts.</sub>
 </p>
